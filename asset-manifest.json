@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c7e8a7f.chunk.css",
-    "main.js": "/static/js/main.401ba087.chunk.js",
-    "main.js.map": "/static/js/main.401ba087.chunk.js.map",
+    "main.css": "/static/css/main.45130fe6.chunk.css",
+    "main.js": "/static/js/main.119d984d.chunk.js",
+    "main.js.map": "/static/js/main.119d984d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d0605945.js",
     "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
-    "static/js/2.bcf7115c.chunk.js": "/static/js/2.bcf7115c.chunk.js",
-    "static/js/2.bcf7115c.chunk.js.map": "/static/js/2.bcf7115c.chunk.js.map",
+    "static/js/2.ebab18d9.chunk.js": "/static/js/2.ebab18d9.chunk.js",
+    "static/js/2.ebab18d9.chunk.js.map": "/static/js/2.ebab18d9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3c7e8a7f.chunk.css.map": "/static/css/main.3c7e8a7f.chunk.css.map",
-    "static/js/2.bcf7115c.chunk.js.LICENSE.txt": "/static/js/2.bcf7115c.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/static/media/resumeFront.06db8e4d.jpg",
-    "static/media/phone.5536a79d.svg": "/static/media/phone.5536a79d.svg",
-    "static/media/profile-image.3c34597e.jpeg": "/static/media/profile-image.3c34597e.jpeg"
+    "static/css/main.45130fe6.chunk.css.map": "/static/css/main.45130fe6.chunk.css.map",
+    "static/js/2.ebab18d9.chunk.js.LICENSE.txt": "/static/js/2.ebab18d9.chunk.js.LICENSE.txt",
+    "static/media/Habts.00036164.png": "/static/media/Habts.00036164.png",
+    "static/media/Vector-1.97a8bc24.svg": "/static/media/Vector-1.97a8bc24.svg",
+    "static/media/Vector-2.639043e9.svg": "/static/media/Vector-2.639043e9.svg",
+    "static/media/books-and-brewskies.104ebcd8.jpeg": "/static/media/books-and-brewskies.104ebcd8.jpeg",
+    "static/media/header.81510400.png": "/static/media/header.81510400.png",
+    "static/media/laptop.3b4e3319.svg": "/static/media/laptop.3b4e3319.svg",
+    "static/media/letslink.4cc131de.png": "/static/media/letslink.4cc131de.png",
+    "static/media/microphone.faefd36c.svg": "/static/media/microphone.faefd36c.svg",
+    "static/media/mobile.e15103eb.svg": "/static/media/mobile.e15103eb.svg",
+    "static/media/paint-brush.fbd587fc.svg": "/static/media/paint-brush.fbd587fc.svg",
+    "static/media/App.scss": "/static/media/resumeFront.06db8e4d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d0605945.js",
-    "static/js/2.bcf7115c.chunk.js",
-    "static/css/main.3c7e8a7f.chunk.css",
-    "static/js/main.401ba087.chunk.js"
+    "static/js/2.ebab18d9.chunk.js",
+    "static/css/main.45130fe6.chunk.css",
+    "static/js/main.119d984d.chunk.js"
   ]
 }
