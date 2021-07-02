@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e057dfba.chunk.css",
-    "main.js": "/static/js/main.0a061a50.chunk.js",
-    "main.js.map": "/static/js/main.0a061a50.chunk.js.map",
+    "main.css": "/static/css/main.d719ccef.chunk.css",
+    "main.js": "/static/js/main.f8b54730.chunk.js",
+    "main.js.map": "/static/js/main.f8b54730.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d0605945.js",
     "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
     "static/js/2.05d5ceb4.chunk.js": "/static/js/2.05d5ceb4.chunk.js",
     "static/js/2.05d5ceb4.chunk.js.map": "/static/js/2.05d5ceb4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e057dfba.chunk.css.map": "/static/css/main.e057dfba.chunk.css.map",
+    "static/css/main.d719ccef.chunk.css.map": "/static/css/main.d719ccef.chunk.css.map",
     "static/js/2.05d5ceb4.chunk.js.LICENSE.txt": "/static/js/2.05d5ceb4.chunk.js.LICENSE.txt",
     "static/media/avatar.3796ff0b.svg": "/static/media/avatar.3796ff0b.svg",
     "static/media/books-and-brewskies.104ebcd8.jpeg": "/static/media/books-and-brewskies.104ebcd8.jpeg",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.d0605945.js",
     "static/js/2.05d5ceb4.chunk.js",
-    "static/css/main.e057dfba.chunk.css",
-    "static/js/main.0a061a50.chunk.js"
+    "static/css/main.d719ccef.chunk.css",
+    "static/js/main.f8b54730.chunk.js"
   ]
 }
