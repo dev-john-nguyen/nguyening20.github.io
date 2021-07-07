@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.abb9d7c3.chunk.css",
-    "main.js": "/static/js/main.0f145e40.chunk.js",
-    "main.js.map": "/static/js/main.0f145e40.chunk.js.map",
+    "main.js": "/static/js/main.1222637a.chunk.js",
+    "main.js.map": "/static/js/main.1222637a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d0605945.js",
     "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
     "static/js/2.05d5ceb4.chunk.js": "/static/js/2.05d5ceb4.chunk.js",
@@ -12,27 +12,26 @@
     "static/js/2.05d5ceb4.chunk.js.LICENSE.txt": "/static/js/2.05d5ceb4.chunk.js.LICENSE.txt",
     "static/media/avatar.3796ff0b.svg": "/static/media/avatar.3796ff0b.svg",
     "static/media/books-and-brewskies.104ebcd8.jpeg": "/static/media/books-and-brewskies.104ebcd8.jpeg",
-    "static/media/four.085d58b6.png": "/static/media/four.085d58b6.png",
     "static/media/four.5abe883d.png": "/static/media/four.5abe883d.png",
     "static/media/laptop.3b4e3319.svg": "/static/media/laptop.3b4e3319.svg",
     "static/media/mobile-section.4b3f2aa8.svg": "/static/media/mobile-section.4b3f2aa8.svg",
     "static/media/mobile.e15103eb.svg": "/static/media/mobile.e15103eb.svg",
-    "static/media/one.3b10a8ac.png": "/static/media/one.3b10a8ac.png",
+    "static/media/one.07d0926e.png": "/static/media/one.07d0926e.png",
     "static/media/one.6a398520.png": "/static/media/one.6a398520.png",
     "static/media/paint-brush.fbd587fc.svg": "/static/media/paint-brush.fbd587fc.svg",
     "static/media/paint-section.107d17bd.svg": "/static/media/paint-section.107d17bd.svg",
     "static/media/projects.f8d3e96b.svg": "/static/media/projects.f8d3e96b.svg",
     "static/media/scroll.1c5af9c7.svg": "/static/media/scroll.1c5af9c7.svg",
-    "static/media/three.99f88fab.png": "/static/media/three.99f88fab.png",
     "static/media/three.9fb54086.png": "/static/media/three.9fb54086.png",
+    "static/media/three.9fbc717d.png": "/static/media/three.9fbc717d.png",
+    "static/media/two.7c79d34f.png": "/static/media/two.7c79d34f.png",
     "static/media/two.d9673800.png": "/static/media/two.d9673800.png",
-    "static/media/two.ed4ecc93.png": "/static/media/two.ed4ecc93.png",
     "static/media/web-section.819f6d2d.svg": "/static/media/web-section.819f6d2d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d0605945.js",
     "static/js/2.05d5ceb4.chunk.js",
     "static/css/main.abb9d7c3.chunk.css",
-    "static/js/main.0f145e40.chunk.js"
+    "static/js/main.1222637a.chunk.js"
   ]
 }
